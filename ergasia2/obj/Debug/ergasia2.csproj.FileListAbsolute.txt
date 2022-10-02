@@ -1,0 +1,20 @@
+C:\VisualStudio\source\repos\ergasia2\ergasia2\bin\Debug\ergasia2.exe.config
+C:\VisualStudio\source\repos\ergasia2\ergasia2\bin\Debug\ergasia2.exe
+C:\VisualStudio\source\repos\ergasia2\ergasia2\bin\Debug\ergasia2.pdb
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.csprojAssemblyReference.cache
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.Form1.resources
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.Properties.Resources.resources
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.csproj.GenerateResource.cache
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.csproj.CoreCompileInputs.cache
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.exe
+C:\VisualStudio\source\repos\ergasia2\ergasia2\obj\Debug\ergasia2.pdb
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\bin\Debug\ergasia2.exe.config
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\bin\Debug\ergasia2.exe
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\bin\Debug\ergasia2.pdb
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.csproj.AssemblyReference.cache
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.Form1.resources
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.Properties.Resources.resources
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.csproj.GenerateResource.cache
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.csproj.CoreCompileInputs.cache
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.exe
+C:\Users\xrist\Desktop\Γ ΕΞΑΜΗΝΟ\ΑΝΤΙΚΕΙΜΕΝΟΣΤΡΕΦΗΣ ΑΝΑΠΤΥΞΗ ΕΦΑΡΜΟΓΩΝ\visual studio\ergasia2\ergasia2\obj\Debug\ergasia2.pdb
