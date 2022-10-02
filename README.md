@@ -1,6 +1,6 @@
-# Second individual assignment for the lesson "Object Oriented Application Development".
+# Paint Application
+An individual project that was developed as a university assignment for the subject "Object Oriented Application Development" representing a responsive paint application created with WinForms Visual C# on .NET Framework.<br>
 
-A responsive paint application created with WinForms Visual C# on .NET Framework.
 The application supports some basic design features like:
 
 • Straight sections
